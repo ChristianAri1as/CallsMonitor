@@ -1,0 +1,1 @@
+asteriskcdrdb,M1lenio16,192.168.1.241:,3306/,root
